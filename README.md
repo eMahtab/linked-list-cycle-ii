@@ -10,7 +10,7 @@ Notice that you should not modify the linked list.
 
 
 
-**Implementation : Slow and Fast Pointer **
+**Implementation : Slow and Fast Pointer**
 ```java
 /**
  * Definition for singly-linked list.
@@ -50,6 +50,12 @@ public class Solution {
     }
 }
 ```
+
+
+
+# References :
+
+1. https://www.youtube.com/watch?v=zbozWoMgKW0
 
 
 
